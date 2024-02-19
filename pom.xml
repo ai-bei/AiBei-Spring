@@ -10,7 +10,8 @@
 	<version>20240219.001.0001</version>
 	<modules>
 
-    </modules>
+		<module>springboot-demo</module>
+	</modules>
 
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
