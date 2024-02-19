@@ -9,7 +9,6 @@
 	<packaging>pom</packaging>
 	<version>20240219.001.0001</version>
 	<modules>
-
 		<module>springboot-demo</module>
 	</modules>
 
